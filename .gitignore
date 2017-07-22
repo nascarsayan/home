@@ -1,0 +1,11 @@
+#*#
+*~
+Desktop/
+Documents/
+Downloads/
+Entertainment/
+.software/
+.emacs.d/
+.cache/
+.config/chromium/
+.local/
