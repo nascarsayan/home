@@ -1,18 +1,101 @@
 0
-/usr/share/backgrounds/Flora_by_Marek_Koteluk.jpg
-/home/nascarsayan/.config/variety/Downloaded/wallhaven_leaves/wallhaven-301766.jpg
-/usr/share/backgrounds/TCP118v1_by_Tiziano_Consonni.jpg
-/home/nascarsayan/.config/variety/Downloaded/wallhaven_cityscape/wallhaven-29121.jpg
-/usr/share/backgrounds/160218-deux-two_by_Pierre_Cante.jpg
-/usr/share/backgrounds/Dans_ma_bulle_by_Christophe_Weibel.jpg
-/usr/share/backgrounds/Black_hole_by_Marek_Koteluk.jpg
-/usr/share/backgrounds/Cielo_estrellado_by_Eduardo_Diez_Viñuela.jpg
-/usr/share/backgrounds/clock_by_Bernhard_Hanakam.jpg
-/home/nascarsayan/.config/variety/Downloaded/wallhaven_tilt_shift/wallhaven-302127.jpg
-/usr/share/backgrounds/passion_flower_by_Irene_Gr.jpg
-/usr/share/backgrounds/Icy_Grass_by_Raymond_Lavoie.jpg
-/usr/share/backgrounds/The_Land_of_Edonias_by_Γιωργος_Αργυροπουλος.jpg
-/home/nascarsayan/.config/variety/Downloaded/wallhaven_cityscape/wallhaven-29121.jpg
-/usr/share/backgrounds/Xerus_Wallpaper_Grey_4096x2304.png
-/usr/share/backgrounds/Night_lights_by_Alberto_Salvia_Novella.jpg
-/usr/share/backgrounds/warty-final-ubuntu.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/124/579763.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/107/580436.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Naruto/29/457833.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Sword Art Online II/17/791827.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/177/545001.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/The Melancholy Of Haruhi Suzumiya/3/315171.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Sword Art Online II/11/791593.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Sword Art Online II/30/797435.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Naruto/3/291486.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Sword Art Online II/7/791629.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Akame Ga Kill!/5/776594.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Tokyo Ghoul/11/596857.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Haikyū!!/3/714335.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Death Note/4/168984.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Naruto/27/218767.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/109/580358.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Baccano!/2/478996.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Your Name./20/764977.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Naruto/13/641120.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Death Note/3/393452.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/96/160464.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/209/306330.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/193/544368.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Your Name./24/777210.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Sword Art Online II/8/641898.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/103/580631.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/164/564067.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/84/259765.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/196/540506.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/266/265309.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/19/580639.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Sword Art Online/65/746114.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/131/579495.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/126/579675.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Btoom!/1/629947.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/38/72931.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/14/579925.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/96/120155.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/72/295483.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/71/300368.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/248/295153.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/126/579698.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Tokyo Ghoul/11/725908.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Food Wars: Shokugeki No Soma/12/780192.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/1/81993.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Tokyo Ghoul/14/767159.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/18/72837.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/The Melancholy Of Haruhi Suzumiya/9/717928.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/247/295211.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/130/579553.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/The Melancholy Of Haruhi Suzumiya/23/780683.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/71/300368.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/When They Cry/10/632227.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/38/746109.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/185/544643.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/84/259729.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/252/294304.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Fairy Tail/25/760636.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/182/544757.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/110/580310.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/22/306292.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/152/578664.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/130/579532.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/106/580503.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Fairy Tail/5/692095.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/The Melancholy Of Haruhi Suzumiya/4/82419.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/180/544869.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/When They Cry/10/632233.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Food Wars: Shokugeki No Soma/4/736839.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/215/305435.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/274/259814.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/ERASED/1/684100.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/196/540521.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/60/305600.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Food Wars: Shokugeki No Soma/4/780443.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/25/604206.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/176/545035.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/180/544857.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/146/578902.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/The Melancholy Of Haruhi Suzumiya/7/73202.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/176/545026.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/When They Cry/2/632372.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/111/580243.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/When They Cry/14/630437.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Food Wars: Shokugeki No Soma/6/780363.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/ERASED/1/692036.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/245/295300.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Food Wars: Shokugeki No Soma/7/780346.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/61/305462.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/184/544700.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/178/544919.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Bleach/225/304503.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/The Melancholy Of Haruhi Suzumiya/6/112925.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Sword Art Online/10/712978.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/To Love-Ru/1/672589.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Your Name./16/790684.png
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Naruto/16/106892.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Death Note/3/720669.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Naruto/2/602089.jpg
+/media/nascarsayan/KaoriMiazono/Pictures/Anime/Alphacoders/Naruto/24/703794.jpg

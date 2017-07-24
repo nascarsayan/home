@@ -1,0 +1,26 @@
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABR8AAALCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1366=1367
+
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAALCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/verilog.pdf
+File2[$e]=$HOME/Downloads/M. Morris Mano, Michael D. Ciletti Digital Design With an Introduction to the Verilog HDL.pdf
+File3[$e]=/media/nascarsayan/KaoriMiazono/Compilers - Principles Techniques and Tools by Alfred Aho Monica Lam Ravi Sethi Jeffrey Ullman - Second Edition.pdf
+File4[$e]=/media/nascarsayan/KaoriMiazono/Patterson Hennessy - Computer Organization and Design.pdf
+File5[$e]=$HOME/Downloads/synapticad-19.00c-x64/Examples/docs/AMBA.pdf
+File6[$e]=$HOME/Downloads/synapticad-19.00c-x64/Examples/docs/pipelining.pdf
+Name1[$e]=verilog.pdf
+Name2[$e]=M. Morris Mano, Michael D. Ciletti Digital Design With an Introduction to the Verilog HDL.pdf
+Name3[$e]=Compilers - Principles Techniques and Tools by Alfred Aho Monica Lam Ravi Sethi Jeffrey Ullman - Second Edition.pdf
+Name4[$e]=Patterson Hennessy - Computer Organization and Design.pdf
+Name5[$e]=AMBA.pdf
+Name6[$e]=pipelining.pdf

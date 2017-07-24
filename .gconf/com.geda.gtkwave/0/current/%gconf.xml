@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="savefile" mtime="1500889296" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="optimized_vcd" mtime="1500889296" type="string">
+		<stringvalue>0</stringvalue>
+	</entry>
+	<entry name="dumpfile" mtime="1500889296" type="string">
+		<stringvalue>/home/nascarsayan/code/verilog/intro/test.vcd</stringvalue>
+	</entry>
+	<entry name="pwd" mtime="1500889296" type="string">
+		<stringvalue>/home/nascarsayan</stringvalue>
+	</entry>
+	<entry name="rcfile" mtime="1500889295" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+</gconf>

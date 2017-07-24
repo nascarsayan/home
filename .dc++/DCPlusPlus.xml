@@ -110,6 +110,6 @@
 		<ConfirmHubRemoval type="int">1</ConfirmHubRemoval>
 	</Settings>
 	<Share>
-		<Directory Virtual="A2">/media/nascarsayan/KaoriMiazono/Entertainment/A2/</Directory>
+		<Directory Virtual="anime">/media/nascarsayan/KaoriMiazono/Entertainment/anime/</Directory>
 	</Share>
 </DCPlusPlus>
