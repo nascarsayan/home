@@ -33,6 +33,7 @@ audio/mp4=vlc.desktop
 audio/amr=vlc.desktop
 audio/amr-wb=vlc.desktop
 text/plain=userapp-emacsclient-F4K93Y.desktop
+application/xml=userapp-emacsclient-F4K93Y.desktop
 
 [Added Associations]
 application/x-font-ttf=org.gnome.font-viewer.desktop;
@@ -64,3 +65,4 @@ audio/amr=vlc.desktop;
 audio/amr-wb=vlc.desktop;
 text/plain=emacs25.desktop;userapp-emacsclient-F4K93Y.desktop;
 text/x-verilog=userapp-emacsclient-F4K93Y.desktop;
+application/xml=userapp-emacsclient-F4K93Y.desktop;
